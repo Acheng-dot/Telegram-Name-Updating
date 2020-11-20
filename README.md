@@ -1,11 +1,3 @@
-# Telegram-Name-Updating
-
-Update (first/last/user) name of Telegram user every 30 seconds. 
-
-参考文档：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
-
-lastname实时更新效果：<a href="https://t.me/JiuMeng">旧梦</a>
-
 ## 0. 准备
 
 运行环境：VPS，python3，python3-pip
@@ -14,7 +6,7 @@ lastname实时更新效果：<a href="https://t.me/JiuMeng">旧梦</a>
 
 ## 1. 下载Demo小程序到VPS上
 
-<code>git clone https://github.com/iiii-im/Telegram-Name-Updating.git</code>\
+<code>git clone https://github.com/Acheng-dot/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
 ## 2. 安装telethon
